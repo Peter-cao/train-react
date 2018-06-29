@@ -1,0 +1,50 @@
+#tab-bar.demo {
+    display: flex;
+    flex-direction: column;
+}
+#tab-bar .demoName {
+    height: 40px;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+    background-color: white;
+}
+.tab_main_c{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Main-c.png) center center /  21px 21px no-repeat;
+}
+.tab_main{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Main.png) center center /  21px 21px no-repeat;
+}
+.tab_ask_c{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Ask-c.png) center center /  21px 21px no-repeat;
+}
+.tab_ask{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Ask.png) center center /  21px 21px no-repeat;
+}
+.tab_pic_c{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Pic-c.png) center center /  21px 21px no-repeat;
+}
+.tab_pic{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Pic.png) center center /  21px 21px no-repeat;
+}
+.tab_my_c{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Profile-c.png) center center /  21px 21px no-repeat;
+}
+.tab_my{
+    width: 22px;
+    height: 22px;
+    background: url(../../assets/Profile.png) center center /  21px 21px no-repeat;
+}

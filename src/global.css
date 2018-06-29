@@ -2,4 +2,6 @@
 html, body, :global(#root) {
   height: 100%;
 }
-
+body .main :global(.am-tab-bar-bar .am-tab-bar-tab-title) {
+  display: none;
+}
