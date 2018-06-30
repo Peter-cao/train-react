@@ -7,6 +7,8 @@ export default {
         selectedTab: 'main',
         hidden: false,
         fullScreen: true,
+        carouselList: ['AiyWuByWklrrUDlFignR', 'TekJlZRVCjLFexlOCuWn', 'IJOtIlfsYdTyaDTRVrLI'],
+        imgHeight: 176,
     },
 
     subscriptions: {
